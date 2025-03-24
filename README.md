@@ -6,7 +6,7 @@
 <h3 align="center">feel free to connect</h3>
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-kaunda-8542a028b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### Languages and Tools:
 <p align="left">
